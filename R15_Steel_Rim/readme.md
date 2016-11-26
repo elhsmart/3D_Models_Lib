@@ -1,6 +1,6 @@
 #R15 Steel Rim
 
-![R15_Steel_Rim](R15_Steel_Rim/R15_Steel_Rim.png?raw=true)
+![R15_Steel_Rim](R15_Steel_Rim.png?raw=true)
 
 R15 Steel rim simplified model with strict rely on base dimensions.
 
